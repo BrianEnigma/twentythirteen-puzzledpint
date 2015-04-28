@@ -60,7 +60,12 @@ a, a:hover, a:visited {
     float:right;
 }
 
-.nav-menu li a {
+.nav-menu li a,
+.nav-menu .current_page_item > a, 
+.nav-menu .current_page_ancestor > a, 
+.nav-menu .current-menu-item > a, 
+.nav-menu .current-menu-ancestor > a
+{
     font-size:16px;
     padding:5px;
     text-transform:lowercase;
@@ -75,6 +80,7 @@ a, a:hover, a:visited {
 		color:#fff;
 	}
 }
+
 
 .site-header .search-field {
 	background-image: url(images/search-icon-2x-white.png);
