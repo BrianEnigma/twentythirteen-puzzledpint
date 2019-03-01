@@ -50,9 +50,11 @@ a, a:hover, a:visited {
     padding:35px 0 0 0;
 }
 #navbar {
+    /*
     padding:95px 0 0 0;
     float:right;
     width:742px;
+    */
     background-color:inherit;
 }
 

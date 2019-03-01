@@ -1,10 +1,10 @@
-#Puzzled Pint Wordpress Theme
+# Puzzled Pint Wordpress Theme
 
-##About
+## About
 
 This is the theme used by <http://blog.puzzledpint.com>. 
 
-##Theory
+## Theory
 
 This theme attempts to capture the look and feel of the main puzzled pint website. It matches color and font with one exception. I deviated in two places.
 
@@ -14,7 +14,7 @@ This theme attempts to capture the look and feel of the main puzzled pint websit
 
 This theme is a child theme of the built in “twentythirteen” theme, so we don't have a lot of room to deviate from the built-in behavior and navigation, but we have a ton of flexibility in skinning it with CSS.
 
-##Installation
+## Installation
 
 1. Install this folder (twentythirteen-puzzledpint) into your WordPress themes folder, giving you  wp-content/themes/twentythirteen-puzzledpint.
 2. Open your WordPress administration page.
